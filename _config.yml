@@ -20,6 +20,12 @@ author: Some Person
 ###############################################
 
 navbar-links:
+navbar-links:
+  Historia: "historia"
+  Personajes: "personajes"
+  La Serie: "serie"
+  Contacto: "contacto"
+
   About Me: "aboutme"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
