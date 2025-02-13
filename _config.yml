@@ -20,11 +20,6 @@ author: Manuel
 ###############################################
 
 navbar-links:
-Resources: 
-  Historia: "historia"
-  Personajes: "personajes"
-  La Serie: "serie"
-  Contacto: "contacto"
 
   About Me: "aboutme"
   Resources:
